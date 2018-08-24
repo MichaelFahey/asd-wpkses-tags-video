@@ -5,7 +5,7 @@
  *
  * @package ASD_wp_kses_Video_Tags
  * Plugin Name:    ASD wp_kses Video Tags
- * Plugin URI:     https://artisansitedesigns.com/
+ * Plugin URI:     https://artisansitedesigns.com/plugins/asd-wpkses-tags-video
  * Description:    
  * Author:         Michael H Fahey
  * Author URI:     https://artisansitedesigns.com/staff/michael-h-fahey/
