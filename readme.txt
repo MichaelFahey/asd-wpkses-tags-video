@@ -4,7 +4,7 @@ Tags: wp_kses, allowedtags, video
 Requires PHP: 5.6
 Requires at least: 3.6
 Tested up to: 4.9.8
-Stable tag: 1.201811241
+Stable tag: 1.201812011
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Plugin URI:  https://artisansitedesigns.com/plugins/asd-wpkses-tags-video/
@@ -27,6 +27,9 @@ The repository for this plugin can be downloaded directly from GitHub with the c
 git clone https://github.com/MichaelFahey/asd-wpkses-tags-video.git
 
 == Changelog ==
+= 1.201812011 2018-12-01 =
+codesniffer audit, submodule update
+
 = 1.201811241 2018-11-24 =
 First properly versioned release.
 

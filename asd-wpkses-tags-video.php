@@ -6,12 +6,12 @@
  * @package ASD_wp_kses_Video_Tags
  * Plugin Name:    ASD wp_kses Video Tags
  * Plugin URI:     https://artisansitedesigns.com/
- * Description:    
+ * Description:
  * Author:         Michael H Fahey
  * Author URI:     https://artisansitedesigns.com/staff/michael-h-fahey/
  * Text Domain:    asd_video_tags_wpkses
  * License:        GPL3
- * Version:        1.201811241
+ * Version:        1.201812011
  *
  * ASD Video Tags wp_kses is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -43,13 +43,13 @@ if ( ! defined( 'ASD_VIDEO_TAGS_WPKSES_URL' ) ) {
 require_once 'includes/asd-admin-menu/asd-admin-menu.php';
 
 global $allowedposttags;
-$allowedposttags['video'] = array ( 
-         'src'   => array(),
-         'class' => array(),
-         'id' => array(),
-         'preload' => array(),
-         'controls' => array(),
-         'type' => array(),
+$allowedposttags['video'] = array(
+	'src'      => array(),
+	'class'    => array(),
+	'id'       => array(),
+	'preload'  => array(),
+	'controls' => array(),
+	'type'     => array(),
 );
 
 
